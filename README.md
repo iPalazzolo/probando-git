@@ -1,2 +1,3 @@
 Este repositorio servirá de prueba para practicar la manipulación de la herramienta Git en la plataforma GitHub
-Y ahora lo modifico desde otro directorio, pero utilizando el mismo repositorio remoto...
+
+Gracias a OpenBootcamp por la oportunidad de aprender, sobre todo a Victor Román.
